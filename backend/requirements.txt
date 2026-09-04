@@ -12,4 +12,4 @@ pytest>=8.3
 python-multipart>=0.0.9
 
 PyJWT>=2.8
-cryptography>=42
+cryptography>=50.0.1
